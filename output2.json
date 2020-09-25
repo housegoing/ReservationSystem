@@ -1,0 +1,83 @@
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Elephant"],
+  "status": "success"
+}
+{
+  "venue": "Gardens",
+  "rooms": ["Figtree"],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Penguin"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo",
+    "Elephant"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservation": [
+      {
+        "start": "2019-02-21",
+        "end": "2019-02-26",
+        "id": "Annual Meeting"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Dance Party"
+      }
+    ],
+    "room": "Penguin"
+  },
+  {
+    "reservation": [{
+      "start": "2019-02-21",
+      "end": "2019-02-26",
+      "id": "Annual Meeting"
+    }],
+    "room": "Hippo"
+  },
+  {
+    "reservation": [
+      {
+        "start": "2019-02-21",
+        "end": "2019-02-26",
+        "id": "Annual Meeting"
+      },
+      {
+        "start": "2019-03-24",
+        "end": "2019-03-27",
+        "id": "Mattress Convention"
+      }
+    ],
+    "room": "Elephant"
+  }
+]
+[
+  {
+    "reservation": [],
+    "room": "Figtree"
+  },
+  {
+    "reservation": [],
+    "room": "HEHEHE"
+  }
+]

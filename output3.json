@@ -1,0 +1,84 @@
+{
+  "venue": "Zoo",
+  "rooms": [
+    "Penguin",
+    "Hippo"
+  ],
+  "status": "success"
+}
+{
+  "venue": "Zoo",
+  "rooms": ["Elephant"],
+  "status": "success"
+}
+{
+  "venue": "Gardens",
+  "rooms": ["Figtree"],
+  "status": "success"
+}
+{
+  "venue": "HAHAHAHA",
+  "rooms": [
+    "HEHEHE",
+    "HOHOHO"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservation": [{
+      "start": "2019-03-25",
+      "end": "2019-03-26",
+      "id": "Annual Meeting"
+    }],
+    "room": "Penguin"
+  },
+  {
+    "reservation": [{
+      "start": "2019-03-25",
+      "end": "2019-03-26",
+      "id": "Annual Meeting"
+    }],
+    "room": "Hippo"
+  },
+  {
+    "reservation": [{
+      "start": "2019-03-24",
+      "end": "2019-03-27",
+      "id": "Mattress Convention"
+    }],
+    "room": "Elephant"
+  }
+]
+[
+  {
+    "reservation": [{
+      "start": "2019-03-26",
+      "end": "2019-03-26",
+      "id": "Dance Party"
+    }],
+    "room": "Figtree"
+  },
+  {
+    "reservation": [],
+    "room": "KEKEKEK"
+  }
+]
+[
+  {
+    "reservation": [{
+      "start": "2019-03-25",
+      "end": "2019-03-26",
+      "id": "HAHAHA Party"
+    }],
+    "room": "HEHEHE"
+  },
+  {
+    "reservation": [{
+      "start": "2019-03-25",
+      "end": "2019-03-26",
+      "id": "HAHAHA Party"
+    }],
+    "room": "HOHOHO"
+  }
+]
